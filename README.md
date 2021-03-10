@@ -30,7 +30,7 @@ I am furthering my leadership skills by being a Women in Tech Fellow at Accentur
 
 ### Work ⏰
 
-***Present.*** [SoReMo](https://www.soremo.org/home), Fellow.  ||  ***Past.*** AIVolve
+***Present.*** [SoReMo](https://www.soremo.org/home), Fellow. Accenture, Fellow. ||  ***Past.*** AIVolve, InstaRare
 
 ### Awards 🌼 
 - Black Wings Hacks by Rewriting the Code 21' 🏆 [First Place Project](https://devpost.com/software/nyu-food-banks) 🏆
