@@ -1,4 +1,33 @@
-### Hi there 👋
+# Alisha Khan
+
+Hi, I'm Alisha. Over the past few years, I've been on a continuous journey to deepen my knowledge in Computer Science and Data Science at the Illinois Institute of Technology. Along the way, I've been fortunate to engage in challenging projects and professional experiences that have refined my skills and broadened my horizons.
+
+📫 [akhan92@hawk.iit.edu](mailto:akhan92@hawk.iit.edu) | 🔗 [LinkedIn](https://linkedin.com/in/alishakh/) | 📄 [Resume](https://drive.google.com/file/d/1qwxnrvoAR68-YgtBpo5RLuTAe1GWOfwf/view?usp=drive_link)
+
+
+## Education
+Pursuing a Bachelor's in Computer Science and a Master's in Data Science at the Illinois Institute of Technology, I've been immersed in learning the intricacies of computational techniques and data strategies.
+
+## Professional Experiences
+- **Machine Learning Researcher at Illinois Institute of Technology:** Here, I've worked on implementing machine learning algorithms for a mobile application. I've also utilized the OpenAI Python library to create event proposals that aid in decision-making processes.
+
+- **Data Science Intern at MongoDB:** At MongoDB, I advocated for and influenced the modification of a machine learning model's scope. This experience provided me an opportunity to understand and contribute significantly to the data strategy.
+
+- **Data Scientist Intern at Meta:** My role involved analyzing data to identify monetization opportunities. This involved closely working with different teams and presenting findings that influenced key decisions.
+
+- **Data Scientist Intern at Exelon Utilities:** I worked on a project that forecasted power plant failures, potentially saving significant resources. This involved data extraction, preprocessing, and utilizing Python for analytical tasks.
+
+## Projects
+- **Graph Neural Network-Based Room Type Prediction:** This project was an endeavor into neural networks where I used PyTorch to predict room types. It demonstrated the power of neural networks in real-world scenarios.
+
+- **COVID-19 Tweet Classifications:** An important project where I developed a natural language processing pipeline to classify tweets related to COVID-19.
+
+- **Co-founder and Co-president of WiSTEM:** This initiative aimed to amplify women's voices in STEM fields. Our team managed to secure significant sponsorships and created impact on campus.
+
+## Technical Skills
+My toolkit includes a range of languages and libraries, such as `Python`, `R`, `SQL`, `Java`, `Dart`, `Pandas`, `NumPy`, `Scikit-learn`, `PyTorch`, `OpenCV`, and more.
+
+
 
 <!--
 **alisha-a-khan/alisha-a-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
