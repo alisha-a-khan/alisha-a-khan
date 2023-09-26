@@ -11,7 +11,7 @@ Pursuing a Bachelor's in Computer Science and a Master's in Data Science at the 
 ## Professional Experience
 - **Machine Learning Researcher at Illinois Institute of Technology:** Here, I've worked on implementing machine learning algorithms for a mobile application. I've also utilized the OpenAI Python library to create event proposals that aid in decision-making processes.
 
-- **Data Science Intern at MongoDB:** At MongoDB, I advocated for and influenced the modification of a machine learning model's scope. This experience provided me an opportunity to understand and contribute significantly to the data strategy.
+- **Data Scientist Intern at MongoDB:** At MongoDB, I advocated for and influenced the modification of a machine learning model's scope. This experience provided me an opportunity to understand and contribute significantly to the data strategy.
 
 - **Data Scientist Intern at Meta:** My role involved analyzing data to identify monetization opportunities. This involved closely working with different teams and presenting findings that influenced key decisions.
 
