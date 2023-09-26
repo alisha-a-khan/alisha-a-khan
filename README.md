@@ -8,16 +8,20 @@ Hi, I'm Alisha. Over the past few years, I've been on a continuous journey to de
 ## Education
 Pursuing a Bachelor's in Computer Science and a Master's in Data Science at the Illinois Institute of Technology, I've been immersed in learning the intricacies of computational techniques and data strategies.
 
-## Professional Experiences
+## Professional Experience
 - **Machine Learning Researcher at Illinois Institute of Technology:** Here, I've worked on implementing machine learning algorithms for a mobile application. I've also utilized the OpenAI Python library to create event proposals that aid in decision-making processes.
 
 - **Data Science Intern at MongoDB:** At MongoDB, I advocated for and influenced the modification of a machine learning model's scope. This experience provided me an opportunity to understand and contribute significantly to the data strategy.
 
 - **Data Scientist Intern at Meta:** My role involved analyzing data to identify monetization opportunities. This involved closely working with different teams and presenting findings that influenced key decisions.
 
+- **Computer Science Teaching Assistant at Illinois Tech:** I mentored students twice weekly on a financial literacy software project using M1 Finance. We developed a Python program that offers insights into loan payment plans, covering UI design, data structures, algorithms, and debugging.
+  
 - **Data Scientist Intern at Exelon Utilities:** I worked on a project that forecasted power plant failures, potentially saving significant resources. This involved data extraction, preprocessing, and utilizing Python for analytical tasks.
 
-## Projects
+- **Data Science Researcher at Illinois Tech:** I identified racial biases in Illinois Tech’s undergraduate admissions using R statistical analysis and delivered a research paper suggesting solutions to improve equitability by 10%.
+
+## Featured Projects
 - **Graph Neural Network-Based Room Type Prediction:** This project was an endeavor into neural networks where I used PyTorch to predict room types. It demonstrated the power of neural networks in real-world scenarios.
 
 - **COVID-19 Tweet Classifications:** An important project where I developed a natural language processing pipeline to classify tweets related to COVID-19.
