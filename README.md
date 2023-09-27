@@ -2,7 +2,7 @@
 
 Hi, I'm Alisha. Over the past few years, I've been on a continuous journey to deepen my knowledge in Computer Science and Data Science at the Illinois Institute of Technology. Along the way, I've been fortunate to engage in challenging projects and professional experiences that have refined my skills and broadened my horizons.
 
-📫 [akhan92@hawk.iit.edu](mailto:akhan92@hawk.iit.edu) | 🔗 [LinkedIn](https://linkedin.com/in/alishakh/) | 📄 [Resume](https://drive.google.com/file/d/1qwxnrvoAR68-YgtBpo5RLuTAe1GWOfwf/view?usp=drive_link)
+📫 [akhan92@hawk.iit.edu](mailto:akhan92@hawk.iit.edu) | 🔗 [LinkedIn](https://linkedin.com/in/alishakh/) | 📄 [Resume](https://drive.google.com/file/d/1hNQXqRon87sOL-0AXI4AkIZjm5sRcn2E/view?usp=drive_link)
 
 
 ## Education
