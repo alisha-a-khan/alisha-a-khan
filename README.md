@@ -9,7 +9,7 @@ Hi, I'm Alisha. Over the past few years, I've been on a continuous journey to de
 Pursuing a Bachelor's in Computer Science and a Master's in Data Science at the Illinois Institute of Technology, I've been immersed in learning the intricacies of computational techniques and data strategies.
 
 ## Professional Experience
-- **Software and Machine Learning Enginner:** I am designing user interfaces in Figma and developing an iOS mobile application using Flutter (Dart). Concurrently, I'm building the app's backend in Python, focusing on implementing a machine learning-based recommender system. Additionally, I am integrating the OpenAI Python library to leverage generative AI, streamlining user decisions regarding event dates, costs, and venue selections.
+- **Software and Machine Learning Engineer:** I am designing user interfaces in Figma and developing an iOS mobile application using Flutter (Dart). Concurrently, I'm building the app's backend in Python, focusing on implementing a machine learning-based recommender system. Additionally, I am integrating the OpenAI Python library to leverage generative AI, streamlining user decisions regarding event dates, costs, and venue selections.
 
 - **Data Scientist Intern at MongoDB:** At MongoDB, I advocated for and influenced the modification of a machine learning model's scope. This experience provided me an opportunity to understand and contribute significantly to the data strategy.
 
